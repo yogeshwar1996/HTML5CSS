@@ -6,3 +6,5 @@ HTML5 CSS JAVASCRIPT
   - Internationalization of webpage
   - Global attributes in HTML
   - Semantic vs Style tags
+  - Choosing right image format - JPEG, PNG, GIF, TIFF, BMP
+  - Hyperlinks
