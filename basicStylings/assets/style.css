@@ -7,3 +7,10 @@
 #guideline a {
     background: #ffc6a9;
 }
+
+/* all the _direct_ children of the body receive the margin */
+body > * {
+    margin-left: 10px;
+}
+
+p * { text-decoration: underline; }
