@@ -1,0 +1,9 @@
+/* apply the rule to the <a> tag that is direct descendant of tag with id="intro" */
+#intro > a {
+    font-size: 32px;
+}
+
+/* apply the rule to all <a> tag inside a tag with id="intro" */
+#guideline a {
+    background: #ffc6a9;
+}
