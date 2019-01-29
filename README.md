@@ -14,3 +14,6 @@ HTML5 CSS JAVASCRIPT
        - Types of selectors
        - Style Units like px, em, rem, % etc
        - Style inheritance
+       - Precedance of CSS rules
+       
+       
