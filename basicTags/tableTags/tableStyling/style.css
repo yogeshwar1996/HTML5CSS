@@ -9,3 +9,9 @@ table.eg2, th.eg2, td.eg2 {
 table.eg3, th.eg3, td.eg3 {
     border: initial;
 }
+
+table.eg4, th.eg4, td.eg4 {
+    border: 2px dashed darkred;
+    padding: 5px;
+    border-collapse: collapse;
+}
