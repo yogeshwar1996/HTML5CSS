@@ -2,6 +2,17 @@ table.eg1, th.eg1, td.eg1 {
     border: 1px solid black;
 }
 
+th.eg1 {
+    height: 90px;
+    width: 200px;
+}
+
+td.eg1 {
+    height: 40px;
+    /*text-align: center;*/
+    font-family: monospace;
+}
+
 table.eg2, th.eg2, td.eg2 {
     border: thin dashed black;
 }
@@ -14,4 +25,18 @@ table.eg4, th.eg4, td.eg4 {
     border: 2px dashed darkred;
     padding: 5px;
     border-collapse: collapse;
+}
+
+table.eg5, th.eg5, td.eg5 {
+    border: 2px dashed darkred;
+    padding: 5px;
+    border-collapse: collapse;
+}
+
+tr:nth-child(even) .eg5 {
+    background: #ffb533;
+}
+
+tr:nth-child(odd) .eg5 {
+    background: #d4ccbb;
 }
