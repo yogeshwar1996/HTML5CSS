@@ -33,10 +33,10 @@ table.eg5, th.eg5, td.eg5 {
     border-collapse: collapse;
 }
 
-tr:nth-child(even) .eg5 {
+tr:nth-child(even):hover .eg5 {
     background: #ffb533;
 }
 
-tr:nth-child(odd) .eg5 {
+tr:nth-child(odd):hover .eg5 {
     background: #d4ccbb;
 }
