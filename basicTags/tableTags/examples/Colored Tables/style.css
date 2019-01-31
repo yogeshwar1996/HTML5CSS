@@ -1,0 +1,24 @@
+/*Set border for table as well as header and data cells with class="table1"*/
+table.table1, td.table1, th.table1 {
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+
+/*set dimensions for header and data cells*/
+th, td{
+    height: 65px;
+    width: 200px;
+}
+
+/*Set color fot header cell*/
+th {
+    background: #767071;
+}
+/*set color for data cell*/
+td{
+    background: #32B2B2;
+}
+
+.cap{
+    background: #ffb533;
+}
