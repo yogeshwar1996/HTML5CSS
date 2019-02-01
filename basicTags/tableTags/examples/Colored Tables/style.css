@@ -4,8 +4,34 @@ table.table1, td.table1, th.table1 {
     border-collapse: collapse;
 }
 
+table.table2, td.table2, th.table2 {
+    border: none;
+    border-collapse: collapse;
+}
+
+table.table3 {
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+table.table4 {
+    border-collapse: collapse;
+}
+th.table4 {
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+
+table.table5 {
+    border-collapse: collapse;
+}
+
+td.table5 {
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+
 /*set dimensions for header and data cells*/
-th, td{
+th, td {
     height: 65px;
     width: 200px;
 }
@@ -14,11 +40,12 @@ th, td{
 th {
     background: #767071;
 }
+
 /*set color for data cell*/
-td{
+td {
     background: #32B2B2;
 }
 
-.cap{
+.cap {
     background: #ffb533;
 }
