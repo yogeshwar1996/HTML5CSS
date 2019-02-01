@@ -1,17 +1,11 @@
-table.main {
-
-}
-
-td.main {
-    height: 1000px;
-    width: 1000px;
-    background: thistle;
-}
-
 /*Set border for table as well as header and data cells with class="table1"*/
 table.table1, td.table1, th.table1 {
     border: 2px solid black;
     border-collapse: collapse;
+}
+
+table.table6 {
+    margin-left: 30px;
 }
 
 table.table6, td.table6, th.table6 {
@@ -21,6 +15,10 @@ table.table6, td.table6, th.table6 {
 table.table2, td.table2, th.table2 {
     border: none;
     border-collapse: collapse;
+}
+
+table.table7 {
+    margin-left: 30px;
 }
 
 table.table7, td.table7, th.table7 {
@@ -34,6 +32,7 @@ table.table3 {
 
 table.table8 {
     border: 2px solid black;
+    margin-left: 30px;
 }
 
 table.table4 {
@@ -45,8 +44,13 @@ th.table4 {
     border-collapse: collapse;
 }
 
+table.table9 {
+    margin-left: 30px;
+}
+
 th.table9 {
     border: 2px solid black;
+
 }
 
 table.table5 {
@@ -58,9 +62,12 @@ td.table5 {
     border-collapse: collapse;
 }
 
+table.table10 {
+    margin-left: 30px;
+}
+
 td.table10 {
     border: 2px solid black;
-
 }
 
 /*set dimensions for header and data cells*/
