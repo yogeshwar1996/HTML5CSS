@@ -1,0 +1,20 @@
+th {
+    border-bottom: 4px solid white;
+}
+
+th, td {
+    height: 55px;
+    width: 220px;
+}
+
+th {
+    background: #5296d2;
+}
+
+tr:nth-child(even) td {
+    background: #d0dcee;
+}
+
+tr:nth-child(odd) td {
+    background: #e9eef7;
+}
