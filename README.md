@@ -15,5 +15,6 @@ HTML5 CSS JAVASCRIPT
        - Style Units like px, em, rem, % etc
        - Style inheritance
        - Precedance of CSS rules
-       
+  - Creating and styling Tables in HTML
+  - Adding media content on a webpage
        
